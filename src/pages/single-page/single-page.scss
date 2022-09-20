@@ -1,0 +1,19 @@
+.single-page__list {
+  display: flex;
+  gap: 20px;
+  min-width: 600px;
+}
+.single-page__img {
+  width: 400px;
+  height: 400px;
+}
+.single-page__list-top-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.single-page__url {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

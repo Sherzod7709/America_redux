@@ -1,0 +1,19 @@
+
+.news-card {
+  display: flex;
+  justify-content: space-between;
+  margin: 15px auto;
+  background-color: rgb(197, 223, 222); 
+  border-radius: 10px;
+  min-height: 200px;
+  padding-left: 10px;
+  gap: 20px;
+  
+}
+.news-card__author:hover {
+    color: darkblue;
+    text-shadow: 0 0 4px white;
+}
+.news-card__img {
+  border-radius: 10px;
+}
